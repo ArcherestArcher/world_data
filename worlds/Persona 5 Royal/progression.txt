@@ -1,8 +1,11 @@
 48-Sided 3D Puzzle: filler
+Ambergris AG: filler
 Autumn Bread: filler
-Baptismal Water: unknown
+Baptismal Water: filler
+Beef Patty Ration: filler
 Blaze Curry: filler
 Blue Lust Seed: progression
+Calming Aroma: filler
 Chariot: Endure: useful
 Chariot: Follow Up: useful
 Chariot: Protect: useful
@@ -11,31 +14,42 @@ Coffee Basics: progression
 Cork Bark: filler
 Death: Discount: useful
 Decked Decarabia: filler
+Dizzy Vial L: filler
+Drizzled Natto: filler
 Fruit Ration: filler
+Fulfiller: filler
 Grappling Hook: progression
 Green Lust Seed: progression
 Grudge Magatama: filler
+Haru's Chocolate: filler
+Hero Figure: filler
 Hierophant: Leblanc Curry: useful
 ICU: filler
 Immunization: useful
-Imported Protein: unknown
+Imported Protein: filler
 Insta-kill: useful
 Kamoshida's Medal: progression
 Leblanc Curry: filler
 Lustful Left Eye: progression
-Medicine: useful
+Medicine: filler
 Miso Starfish: filler
 Night Pennant: filler
-Punk Talk: unknown
+Oh! Shiruko: filler
+Pirate Legend: filler
+Punk Talk: useful
 Rakugo Collection: filler
 Ramen Bowl: filler
 Randy Right Eye: progression
 Red Lust Seed: progression
-Reserve Ammo: useful
+Reserve Ammo: filler
+Seafood Aojiru: filler
+Seven-color Trout: filler
 Sojiro's Chocolate: filler
+Speed Reading: filler
 Squid Tri-Pack: filler
-Star Onion: useful
+Star Onion: filler
 Stealth Dash: useful
 Sterilization: useful
 The Illusory Popess: filler
 Udagawa Soda: filler
+Venus Salad: filler
