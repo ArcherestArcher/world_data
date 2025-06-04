@@ -26,6 +26,7 @@ Hero Figure: filler
 Hierophant: Leblanc Curry: useful
 ICU: filler
 Immunization: useful
+Imported Protein: filler
 Insta-kill: useful
 Kamoshida's Medal: progression
 Leblanc Curry: filler
@@ -35,6 +36,7 @@ Miso Starfish: filler
 Night Pennant: filler
 Oh! Shiruko: filler
 Pirate Legend: filler
+Punk Talk: useful
 Rakugo Collection: filler
 Ramen Bowl: filler
 Randy Right Eye: progression

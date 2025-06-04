@@ -1,5 +1,6 @@
 1 Gem: unknown
 Aquaria Towers Metal Shark Ticket: unknown
+Aquaria Towers: unknown
 Canyon Speedway: unknown
 Climbing: unknown
 Crystal Glacier: unknown
@@ -12,6 +13,7 @@ Idol Springs: unknown
 Invincibility Power-Up: unknown
 Ocean Speedway: unknown
 Orb: unknown
+Permanent Superflame: unknown
 Robotica Farms: unknown
 Scorch: unknown
 Skelos Badlands: unknown

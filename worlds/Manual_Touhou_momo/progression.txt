@@ -24,6 +24,7 @@ Hatate: unknown
 Hina: unknown
 IN - Solo & Duo Shot Types: unknown
 Ichirin: unknown
+Joon: unknown
 Junko: unknown
 Kagerou: unknown
 Kaguya: unknown
@@ -60,6 +61,7 @@ PCB - Shot Types B: unknown
 Parsee: unknown
 Patchouli: unknown
 Questionable Doujinshi: unknown
+Raiko: unknown
 Reimu: unknown
 Reisen: unknown
 Remilia: unknown
